@@ -1,0 +1,15 @@
+C:\Users\XIAOMi\Desktop\задача 10\bin\Debug\net7.0\задача 10.exe
+C:\Users\XIAOMi\Desktop\задача 10\bin\Debug\net7.0\задача 10.deps.json
+C:\Users\XIAOMi\Desktop\задача 10\bin\Debug\net7.0\задача 10.runtimeconfig.json
+C:\Users\XIAOMi\Desktop\задача 10\bin\Debug\net7.0\задача 10.dll
+C:\Users\XIAOMi\Desktop\задача 10\bin\Debug\net7.0\задача 10.pdb
+C:\Users\XIAOMi\Desktop\задача 10\obj\Debug\net7.0\задача 10.csproj.AssemblyReference.cache
+C:\Users\XIAOMi\Desktop\задача 10\obj\Debug\net7.0\задача 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XIAOMi\Desktop\задача 10\obj\Debug\net7.0\задача 10.AssemblyInfoInputs.cache
+C:\Users\XIAOMi\Desktop\задача 10\obj\Debug\net7.0\задача 10.AssemblyInfo.cs
+C:\Users\XIAOMi\Desktop\задача 10\obj\Debug\net7.0\задача 10.csproj.CoreCompileInputs.cache
+C:\Users\XIAOMi\Desktop\задача 10\obj\Debug\net7.0\задача 10.dll
+C:\Users\XIAOMi\Desktop\задача 10\obj\Debug\net7.0\refint\задача 10.dll
+C:\Users\XIAOMi\Desktop\задача 10\obj\Debug\net7.0\задача 10.pdb
+C:\Users\XIAOMi\Desktop\задача 10\obj\Debug\net7.0\задача 10.genruntimeconfig.cache
+C:\Users\XIAOMi\Desktop\задача 10\obj\Debug\net7.0\ref\задача 10.dll
